@@ -2,7 +2,7 @@
 
 ## Тестировщик (ручное + автоматизация)
 
-[:point_right: Резюме](file:///C:/Users/darya/Downloads/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%94%D0%B0%D1%80%D1%8C%D1%8F%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0.pdf)
+[:point_right: Резюме](https://drive.google.com/drive/home)
 
 ## Ручное тестирование (Web + Mobile)
 
