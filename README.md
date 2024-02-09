@@ -15,8 +15,8 @@
 
 ### Тестовые артефакты
 
-- [Чек-листы](https://docs.google.com/spreadsheets/d/1N0C4F6g1ubY5SMnqJZrvlZDtB07Iw5FxZPuaTBjRbAc/edit#gid=1353769630)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1QbeGAswlGQYYrytM3QvWeahubRvBtOrqu04rJuVbypQ/edit#gid=1510607617)
+- [Чек-листы](https://docs.google.com/spreadsheets/d/1N0C4F6g1ubY5SMnqJZrvlZDtB07Iw5FxZPuaTBjRbAc/edit#gid=1353769630)
 
 ## Автоматизация
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-122529?style=for-the-badge&logo=visual-studio-code&logoColor=0080FF)
