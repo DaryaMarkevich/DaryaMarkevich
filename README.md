@@ -2,8 +2,6 @@
 
 ## Тестировщик (ручное + автоматизация)
 
-[:point_right: Резюме](https://drive.google.com/drive/home)
-
 ## Ручное тестирование (Web + Mobile)
 
 ![DevTools](https://img.shields.io/badge/DevTools-122529?style=for-the-badge&logo=googlechrome)
