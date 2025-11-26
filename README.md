@@ -13,11 +13,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-122529?style=for-the-badge&logo=postgresql)
 ![Genymotion](https://img.shields.io/badge/genymotion-122529?style=for-the-badge&logo=genymotion&logoColor=3ad07d)
 
-### Тестовые артефакты
-
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1QbeGAswlGQYYrytM3QvWeahubRvBtOrqu04rJuVbypQ/edit#gid=1510607617)
-- [Чек-лист](https://docs.google.com/spreadsheets/d/1N0C4F6g1ubY5SMnqJZrvlZDtB07Iw5FxZPuaTBjRbAc/edit#gid=1353769630)
-
 ## Автоматизация
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-122529?style=for-the-badge&logo=visual-studio-code&logoColor=0080FF)
 ![Playwright](https://img.shields.io/badge/Playwright-122529?style=for-the-badge&logo=playwright)
